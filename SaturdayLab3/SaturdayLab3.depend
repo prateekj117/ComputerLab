@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1536394095 source:/home/geeky_boy/SaturdayLab3/CentiMetre.cpp
+	"CentiMetre.h"
+
+1536394096 /home/geeky_boy/SaturdayLab3/CentiMetre.h
+	<bits/stdc++.h>
+
+1536393582 source:/home/geeky_boy/SaturdayLab3/Feet.cpp
+	"Feet.h"
+
+1536393582 /home/geeky_boy/SaturdayLab3/Feet.h
+	<bits/stdc++.h>
+
+1536393557 source:/home/geeky_boy/SaturdayLab3/Inch.cpp
+	"Inch.h"
+
+1536393582 /home/geeky_boy/SaturdayLab3/Inch.h
+	<bits/stdc++.h>
+
+1536393582 source:/home/geeky_boy/SaturdayLab3/KiloMetre.cpp
+	"KiloMetre.h"
+
+1536388448 /home/geeky_boy/SaturdayLab3/KiloMetre.h
+	<bits/stdc++.h>
+
+1536394231 source:/home/geeky_boy/SaturdayLab3/main.cpp
+	<bits/stdc++.h>
+	"KiloMetre.h"
+	"Metre.h"
+	"Inch.h"
+	"Feet.h"
+	"CentiMetre.h"
+
+1536394532 /home/geeky_boy/SaturdayLab3/Metre.h
+	<bits/stdc++.h>
+
+1536394532 source:/home/geeky_boy/SaturdayLab3/Metre.cpp
+	"Metre.h"
+
